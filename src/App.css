@@ -1,0 +1,46 @@
+.book-list-item{
+  border: 2px solid black;
+  background-color:lightgray;
+  border-radius:15px;
+  margin: 40px auto;
+  text-align:center;
+  padding-top:8px;
+  padding-bottom:8px;
+  cursor:pointer;
+  font-size:15px;
+}
+
+.book-list{
+  padding:20px;
+  height:500px;
+}
+
+
+.selected-book{
+  border:2px solid black;
+}
+
+#main-container{
+  padding:20px
+}
+
+#search-bar{
+  margin-left:5px;
+  width:150px;
+}
+
+.book-image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  margin-top:20px;
+  margin-bottom:20px;
+}
+
+.book-description{
+  border:2px solid black;
+  margin-bottom:20px;
+  margin-top:20px;
+  padding:20px;
+}
